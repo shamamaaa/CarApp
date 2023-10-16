@@ -1,0 +1,15 @@
+/Users/shamamaguliyeva/Desktop/16.10Practice/16.10Practice/bin/Debug/net6.0/16.10Practice
+/Users/shamamaguliyeva/Desktop/16.10Practice/16.10Practice/bin/Debug/net6.0/16.10Practice.deps.json
+/Users/shamamaguliyeva/Desktop/16.10Practice/16.10Practice/bin/Debug/net6.0/16.10Practice.runtimeconfig.json
+/Users/shamamaguliyeva/Desktop/16.10Practice/16.10Practice/bin/Debug/net6.0/16.10Practice.dll
+/Users/shamamaguliyeva/Desktop/16.10Practice/16.10Practice/bin/Debug/net6.0/16.10Practice.pdb
+/Users/shamamaguliyeva/Desktop/16.10Practice/16.10Practice/obj/Debug/net6.0/16.10Practice.csproj.AssemblyReference.cache
+/Users/shamamaguliyeva/Desktop/16.10Practice/16.10Practice/obj/Debug/net6.0/16.10Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shamamaguliyeva/Desktop/16.10Practice/16.10Practice/obj/Debug/net6.0/16.10Practice.AssemblyInfoInputs.cache
+/Users/shamamaguliyeva/Desktop/16.10Practice/16.10Practice/obj/Debug/net6.0/16.10Practice.AssemblyInfo.cs
+/Users/shamamaguliyeva/Desktop/16.10Practice/16.10Practice/obj/Debug/net6.0/16.10Practice.csproj.CoreCompileInputs.cache
+/Users/shamamaguliyeva/Desktop/16.10Practice/16.10Practice/obj/Debug/net6.0/16.10Practice.dll
+/Users/shamamaguliyeva/Desktop/16.10Practice/16.10Practice/obj/Debug/net6.0/refint/16.10Practice.dll
+/Users/shamamaguliyeva/Desktop/16.10Practice/16.10Practice/obj/Debug/net6.0/16.10Practice.pdb
+/Users/shamamaguliyeva/Desktop/16.10Practice/16.10Practice/obj/Debug/net6.0/16.10Practice.genruntimeconfig.cache
+/Users/shamamaguliyeva/Desktop/16.10Practice/16.10Practice/obj/Debug/net6.0/ref/16.10Practice.dll

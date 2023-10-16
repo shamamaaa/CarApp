@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{1FDF82E2-F012-44D2-A181-43F8CE9D535B}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="16.10Practice/Program.cs">
+    <Files>
+      <File FileName="16.10Practice/Program.cs" Line="26" Column="10" />
+      <File FileName="16.10Practice/Models/Car.cs" Line="58" Column="10" />
+      <File FileName="16.10Practice/Interfaces/IDrivable.cs" Line="6" Column="39" />
+      <File FileName="16.10Practice/Interfaces/IRefuellable.cs" Line="6" Column="37" />
+      <File FileName="16.10Practice/Interfaces/IVehicle.cs" Line="4" Column="50" />
+      <File FileName="16.10Practice/Models/Colored.cs" Line="17" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="16.10Practice" expanded="True">
+            <Node name="16.10Practice" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.16.10Practice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
