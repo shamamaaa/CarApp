@@ -54,7 +54,7 @@ class Program
                     while (true)
                     {
                         Console.Write("Nece km yol gedeceksiniz: ", ConsoleColor.Magenta);
-                        if (double.TryParse(Console.ReadLine(), out double distance))
+                        if ((double.TryParse(Console.ReadLine(), out double distance)) && distance>=0)
                         {
                             if (car.Drive(distance))
                                 Colored.WriteLine($"Qalan benzin: {car.Fuel} litr\nGedilen yol: {distance} km");
@@ -72,7 +72,7 @@ class Program
                     {
                         Colored.WriteLine("AB104.Socar.APK Xos Geldiniz",ConsoleColor.Blue);
                         Colored.Write("Neçə litr benzin dolduracaqsınız: ", ConsoleColor.Magenta);
-                        if (double.TryParse(Console.ReadLine(), out double amount))
+                        if ((double.TryParse(Console.ReadLine(), out double amount)) && amount>0)
                         {
                             car.Refuel(amount);
                             Colored.WriteLine($"Benzin doldu, bakda olan benzin: {car.Fuel} litr");

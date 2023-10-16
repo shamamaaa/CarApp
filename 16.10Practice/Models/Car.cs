@@ -39,12 +39,6 @@ namespace _16._10Practice.Models
 
         public bool Refuel(double amount)
         {
-
-            if (amount<0)
-            {
-                Colored.WriteLine("Səhv daxil etmisən");
-                return false;
-            }
             if (Fuel+amount>TankCapacity)
             {
                 Fuel = TankCapacity;
